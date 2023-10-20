@@ -1,0 +1,36 @@
+.portfolio {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    font-size: 50px;
+    margin: auto;
+    margin-top: 8%;
+    padding: 30px;
+    width: 50%;
+}
+
+p {
+    margin: auto;
+    width: 50%;
+    color: rgba(255, 255, 255, 0.609);
+}
+
+.container {
+    display: flex;
+    margin: auto;
+    width: min-content;
+    margin-top: 5%;
+    background-color: rgb(89, 166, 244);
+    padding: 50px;
+    border-radius: 30px;
+    justify-content: space-evenly;
+    gap: 40px;
+}
+
+img {
+    max-width: 250px;
+    border-radius: 10px;
+    
+}
